@@ -1,0 +1,35 @@
+.Tab-Colour {
+  background-color: #2c0e3a;
+  height: 10vh;
+  list-style-type: none;
+  display: flex;
+}
+.size {
+  height: 50px;
+}
+.paragraph {
+  margin-left: 1000px;
+  color: #ffffff;
+}
+.colour {
+  color: #fec653;
+}
+
+.size1 {
+  width: 25%;
+  list-style-type: none;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+}
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.button1 {
+  color: #ffffff;
+  font-weight: bold;
+}
